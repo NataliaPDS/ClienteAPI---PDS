@@ -39,15 +39,7 @@ namespace ClienteAPI___01.Salvar
                 return clientes;
             }
 
-            public static Cliente GetById(int id)
-            {
-                return Lista().FirstOrDefault(c => c.Id == id);
-            }
-
-            public static Cliente GetByCPF(string cpf)
-            {
-                return Lista().FirstOrDefault(c => c.Cpf == cpf);
-            }
+         
 
             public static Cliente Criar(ClienteDTO clienteDto)
             {
