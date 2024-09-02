@@ -1,0 +1,32 @@
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\appsettings.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\ClienteAPI - 01.exe
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\ClienteAPI - 01.deps.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\ClienteAPI - 01.runtimeconfig.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\ClienteAPI - 01.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\ClienteAPI - 01.pdb
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.AssemblyInfo.cs
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets\msbuild.ClienteAPI - 01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets\msbuild.build.ClienteAPI - 01.props
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClienteAPI - 01.props
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClienteAPI - 01.props
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\scopedcss\bundle\ClienteAPI - 01.styles.css
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.csproj.CopyComplete
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\refint\ClienteAPI - 01.dll
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.pdb
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ClienteAPI - 01.genruntimeconfig.cache
+C:\Users\Master\Documents\Ifro - 3B\Projeto de Desenvolvimento de Sistemas\ClienteAPI - 01\ClienteAPI - 01\obj\Debug\net6.0\ref\ClienteAPI - 01.dll
